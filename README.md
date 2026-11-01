@@ -136,20 +136,27 @@ I'm focusing on:
 
 ---
 
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjeev0390&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanjeev's GitHub Stats"/>
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=sanjeev0390&show_icons=true&theme=tokyonight&hide_border=true"
+alt="Sanjeev Gupta GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev0390&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjeev0390&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Sanjeev Gupta Top Languages"/>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=sanjeev0390&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="70%"
+src="https://streak-stats.demolab.com/?user=sanjeev0390&theme=tokyonight&hide_border=true"
+alt="Sanjeev Gupta GitHub Contribution Streak"/>
 
 </div>
-
 ---
 
 ## 🐍 GitHub Contribution Snake
